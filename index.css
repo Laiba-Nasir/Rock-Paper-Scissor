@@ -1,0 +1,45 @@
+
+.container{               
+    text-align: center;
+   /* background-color: blueviolet;*/
+}
+
+.button{
+    padding: 10px;   
+   /* background-color: coral;  */
+}
+.center{
+    padding-top: 100px 0;
+    text-align: center;
+ /*   background-color: cornflowerblue;*/
+}
+
+
+.left{
+    text-align: left;
+}
+.buttons{
+    padding: 50px;
+    display: inline-flex;
+}
+
+
+.choices{
+    padding: 15px;
+   /* background-color: chartreuse;*/
+}
+.versus{
+    padding: 60px;
+}
+
+.userChoice{
+   color:rgb(12, 1, 107);
+}
+.button:hover{
+    border: 1px;
+    border-color: darkorange;
+}
+.far:hover{
+    color: rgb(12, 1, 107);
+}
+
